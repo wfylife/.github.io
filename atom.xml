@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wfylife.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-18T03:59:26.728Z</updated>
+    <title>wfylife</title>
+    <updated>2020-07-18T05:58:19.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wfylife.github.io"/>
     <link rel="self" href="https://wfylife.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>温柔有力量</subtitle>
     <logo>https://wfylife.github.io/images/avatar.png</logo>
     <icon>https://wfylife.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, wfylife</rights>
     <entry>
         <title type="html"><![CDATA[新的开始，新的旅程]]></title>
         <id>https://wfylife.github.io/post/xin-de-kai-shi-xin-de-lu-cheng/</id>
