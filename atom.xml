@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wfylife.github.io</id>
     <title>wfylife</title>
-    <updated>2020-07-18T05:58:19.213Z</updated>
+    <updated>2020-07-26T08:12:05.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wfylife.github.io"/>
     <link rel="self" href="https://wfylife.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://wfylife.github.io/images/avatar.png</logo>
     <icon>https://wfylife.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, wfylife</rights>
+    <entry>
+        <title type="html"><![CDATA[专注的力量]]></title>
+        <id>https://wfylife.github.io/post/zhuan-zhu-de-li-liang/</id>
+        <link href="https://wfylife.github.io/post/zhuan-zhu-de-li-liang/">
+        </link>
+        <updated>2020-07-26T07:56:15.000Z</updated>
+        <content type="html"><![CDATA[<p>专注即为坚持做好一件事，无论是爱好还是工作，无论是热爱的还是讨厌的，你承诺了，就要去做好，而且是持之以恒的做好。</p>
+<blockquote>
+<p>每次开始弄博客，总是没有坚持去写，弄好了，往往写了一篇文章就完了，最多写个几天，也就此杳无音讯，说买了域名买了服务器，说要好好持续写下去，结果又不了了之了。</p>
+<p>觉得摄影很好玩，想学摄影，买了单反，学习了一个月，出去背着单反不是觉得太重，就是拍不好照片，又放着吃灰了</p>
+<p>说想学习一个乐器，那种小巧方便的就行，偶然之间，看到了十孔口琴，这次坚持的最久，买了好几个口琴，也学会了几首曲子，又放下了</p>
+</blockquote>
+<p>放弃真的太容易了，想去做好，往往比我们想象的难的多<br>
+看着上一篇文章，至今已过去了8天，最近准备自己搭一套Laravel系统的博客，前后台都自己写，设计自己喜欢的页面，专注下去</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的开始，新的旅程]]></title>
         <id>https://wfylife.github.io/post/xin-de-kai-shi-xin-de-lu-cheng/</id>
